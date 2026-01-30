@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style(A2).css" type="text/css"?>
+<Student>
+    <student >
+        <id>01</id>
+        <name>Siddhi</name>
+        <Year>2026</Year>
+        <branch>CSE</branch>
+        <emil>siddhisavji@gmail.com</emil>
+        <phone>899547858</phone>
+    </student>
+    <student>
+        <id>02</id>
+        <name>Jatin</name>
+        <Year>2026</Year>
+        <branch>CSE</branch>
+        <emil>JatinV@gmail.com</emil>
+        <phone>7438754888</phone>
+    </student>
+    <student>
+        <id>03</id>
+        <name>Om</name>
+        <Year>2026</Year>
+        <branch>CSE</branch>
+        <emil>OmV@gmail.com</emil>
+        <phone>7327483747</phone>
+    </student>
+    <student>
+        <id>04</id>
+        <name>Mustafa</name>
+        <Year>2026</Year>
+        <branch>CSE</branch>
+        <emil>Mustafa@gmail.com</emil>
+        <phone>3489473388</phone>
+    </student>
+</Student>
