@@ -2,24 +2,19 @@ Student {
   display: block;
   font-family: Arial, sans-serif;
   padding: 20px;
-  background: #f5f5f5;
 }
 
 student {
   display: block;
   margin: 15px 0;
-  padding: 15px;
-  border-left: 5px solid #4a90e2;
-  background: #ffffff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #f9f9f9;
 }
 
-id,
-name,
-year,
-branch,emil,phone {
+id, name, Year, branch, emil, phone {
   display: block;
-  margin-top: 5px;
-  color: #555;
+  margin: 3px 0;
+  font-size: 14px;
 }
-
-
